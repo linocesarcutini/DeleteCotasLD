@@ -50,6 +50,9 @@ namespace ChangeTextInVariousDrawings
                 if (selset.Count != 0) {
 
                 	selset.Erase();
+                	doc.PurgeAll();
+                	doc.PurgeAll();
+                	doc.PurgeAll();
 					acApp.ZoomExtents();
 					doc.Save();
 					doc.Close();
