@@ -1,0 +1,8 @@
+D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\bin\Debug\DeleteCotasLD.exe.config
+D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\bin\Debug\DeleteCotasLD.exe
+D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\bin\Debug\DeleteCotasLD.pdb
+D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\bin\Debug\Autodesk.AutoCAD.Interop.dll
+D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\obj\Debug\DeleteCotasLD.csprojResolveAssemblyReference.cache
+D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\obj\Debug\DeleteCotasLD.exe
+D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\obj\Debug\DeleteCotasLD.pdb

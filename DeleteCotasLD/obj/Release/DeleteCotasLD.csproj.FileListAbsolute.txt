@@ -1,0 +1,6 @@
+D:\OneDrive\Programacao\02 C#\DeleteCotasLD\DeleteCotasLD\bin\Release\DeleteCotasLD.exe.config
+D:\OneDrive\Programacao\02 C#\DeleteCotasLD\DeleteCotasLD\bin\Release\DeleteCotasLD.exe
+D:\OneDrive\Programacao\02 C#\DeleteCotasLD\DeleteCotasLD\bin\Release\Autodesk.AutoCAD.Interop.Common.dll
+D:\OneDrive\Programacao\02 C#\DeleteCotasLD\DeleteCotasLD\bin\Release\Autodesk.AutoCAD.Interop.dll
+D:\OneDrive\Programacao\02 C#\DeleteCotasLD\DeleteCotasLD\obj\Release\DeleteCotasLD.csprojResolveAssemblyReference.cache
+D:\OneDrive\Programacao\02 C#\DeleteCotasLD\DeleteCotasLD\obj\Release\DeleteCotasLD.exe
