@@ -6,3 +6,13 @@ D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\bin\Debug\
 D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\obj\Debug\DeleteCotasLD.csprojResolveAssemblyReference.cache
 D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\obj\Debug\DeleteCotasLD.exe
 D:\OneDrive\Programacao\02 C#\DeleteLayer\ChangeTextInVariousDrawings\obj\Debug\DeleteCotasLD.pdb
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\bin\Debug\DeleteCotasLD.exe.config
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\bin\Debug\DeleteCotasLD.exe
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\bin\Debug\DeleteCotasLD.pdb
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\bin\Debug\Autodesk.AutoCAD.Interop.dll
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\obj\Debug\DeleteCotasLD.csprojAssemblyReference.cache
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\obj\Debug\DeleteCotasLD.csproj.CoreCompileInputs.cache
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\obj\Debug\DeleteCotasLD.csproj.CopyComplete
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\obj\Debug\DeleteCotasLD.exe
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\obj\Debug\DeleteCotasLD.pdb
