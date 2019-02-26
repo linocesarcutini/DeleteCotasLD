@@ -57,8 +57,16 @@ namespace ChangeTextInVariousDrawings
                 AcadSelectionSet selset = null;
                 selset = doc.SelectionSets.Add("layer");
                 short[] ftype = { 8 };
-                object[] fdata = { "COTAS,L.D.,L1,L2,L3,L4,L5,REV.L1,REV.L2,REV.L3,REV.L4,REV.L5," +
-                        "00L1,00L2,00L3,00L4,00L5,R00L1,R00L2,R00L3,R00L4,R00L5,0AL1,0AL2,0AL3,0AL4,0AL5" };
+                object[] fdata = {
+                    "COTAS,L.D.," +
+                    "L1,L2,L3,L4,L5," +
+                    "REV.L1,REV.L2,REV.L3,REV.L4,REV.L5," +
+                    "00L1,00L2,00L3,00L4,00L5," +
+                    "R00L1,R00L2,R00L3,R00L4,R00L5," +
+                    "0AL1,0AL2,0AL3,0AL4,0AL5," +
+                    "01L1,01L2,01L3,01L4,01L5" +
+                    "A1L1,A1L2,A1L3,A1L4,A1L5" };
+
                 selset.Select(AcSelect.acSelectionSetAll, null, null, ftype, fdata);
 
                 if (selset.Count != 0)

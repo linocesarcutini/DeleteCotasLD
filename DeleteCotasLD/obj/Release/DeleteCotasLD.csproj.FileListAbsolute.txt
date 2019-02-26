@@ -4,3 +4,11 @@ D:\OneDrive\Programacao\02 C#\DeleteCotasLD\DeleteCotasLD\bin\Release\Autodesk.A
 D:\OneDrive\Programacao\02 C#\DeleteCotasLD\DeleteCotasLD\bin\Release\Autodesk.AutoCAD.Interop.dll
 D:\OneDrive\Programacao\02 C#\DeleteCotasLD\DeleteCotasLD\obj\Release\DeleteCotasLD.csprojResolveAssemblyReference.cache
 D:\OneDrive\Programacao\02 C#\DeleteCotasLD\DeleteCotasLD\obj\Release\DeleteCotasLD.exe
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\bin\Release\DeleteCotasLD.exe.config
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\bin\Release\DeleteCotasLD.exe
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\bin\Release\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\bin\Release\Autodesk.AutoCAD.Interop.dll
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\obj\Release\DeleteCotasLD.csprojAssemblyReference.cache
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\obj\Release\DeleteCotasLD.csproj.CoreCompileInputs.cache
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\obj\Release\DeleteCotasLD.csproj.CopyComplete
+C:\Users\lino.cc\Source\Repos\DeleteCotasLD\DeleteCotasLD\obj\Release\DeleteCotasLD.exe
