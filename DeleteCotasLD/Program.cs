@@ -51,7 +51,7 @@ namespace ChangeTextInVariousDrawings
                     break;
                 }
 
-                doc.SendCommand("EL");
+                doc.SendCommand("ELL ");
 
                 doc.PurgeAll();
                 doc.PurgeAll();
